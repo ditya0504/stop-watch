@@ -10,5 +10,4 @@ To run the project just go on html file and right click on mouse and click the l
  script.js
  
  you can also check the project on 
- https://abhishekdangi006.github.io/StopWatch-project-using-javascript/
  this link
